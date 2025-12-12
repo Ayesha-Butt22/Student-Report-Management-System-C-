@@ -5,17 +5,20 @@ The report management system module will total and compute the information provi
 by the students, and the outcome will be a rating of each student's academic performance.
 This will keep track of the student's conduct and performance during the course of the
 lesson.
-Problem Statement:
+
+**Problem Statement:**
 Data loss, manual performance monitoring of students are typical problems that student
 management departments in educational institutions deal with. The duties that these
 activities generate for teachers and school officials are numerous. Lack of security also
 made their records vulnerable to theft. There are still many issues to be explored, but we
 only focused on the most significant ones.
-Proposed Solution:
+
+**Proposed Solution:**
 The report management system makes it easy for the professors, students and other
 student service departments of the institute to keep track of students’ performance and
 development so that the optimal decisions for the student’s learning path may be made.
-Scope of the Project:
+
+**Scope of the Project:**
 This system is intended to be extremely effective and user-friendly. Its duties might
 include managing  tests and exams marks and calculating grades and anything else
 required to keep the administrative branch of the school operating smoothly.
