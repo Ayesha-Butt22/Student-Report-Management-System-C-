@@ -22,10 +22,13 @@ development so that the optimal decisions for the student’s learning path may 
 This system is intended to be extremely effective and user-friendly. Its duties might
 include managing  tests and exams marks and calculating grades and anything else
 required to keep the administrative branch of the school operating smoothly.
+
 **Modules:**
 ● Manage Students
 ● Manage Records
+
 **Modules Description:**
+
 | Manage Students
 This module provides add, delete, search, and update the students related functionalities
 to the admin.
@@ -33,6 +36,7 @@ to the admin.
 ● Delete Student
 ● Search Student
 ● Update Student
+
 | Manage Record
 This module provides add, delete, search, update and view records related functionalities
 to the admin.
