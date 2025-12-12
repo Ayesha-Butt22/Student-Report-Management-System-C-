@@ -1,7 +1,5 @@
-"# Student-Report-Management-System-C-" 
-Introduction of the Project
-Project Title: Student Report Management System
-Introduction:
+**Project Title: Student Report Management System**
+**Introduction:**
 Each student or enrollee in this project is assigned a specific instructor for each course.
 The report management system module will total and compute the information provided
 by the students, and the outcome will be a rating of each student's academic performance.
@@ -21,10 +19,10 @@ Scope of the Project:
 This system is intended to be extremely effective and user-friendly. Its duties might
 include managing  tests and exams marks and calculating grades and anything else
 required to keep the administrative branch of the school operating smoothly.
-Modules:
+**Modules:**
 ● Manage Students
 ● Manage Records
-Modules Description:
+**Modules Description:**
 | Manage Students
 This module provides add, delete, search, and update the students related functionalities
 to the admin.
